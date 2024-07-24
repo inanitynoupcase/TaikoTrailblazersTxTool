@@ -18,7 +18,7 @@ Auto send transaction by read and write contract (150 tx/day)
 
 ## Installation
 
-- Clone this repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/inanitynoupcase/TaikoTrailblazersTxTool)
+- Clone this repository: git clone https://github.com/inanitynoupcase/TaikoTrailblazersTxTool
 - Install dependencies: npm install
 - Update config/keys.json with your configuration details.
 
