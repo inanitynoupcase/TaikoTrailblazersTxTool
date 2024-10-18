@@ -1,6 +1,6 @@
 # Taiko Trailblazers Send Transaction Tool
 
-Auto send transaction by read and write contract (+ Point)
+Auto send transaction by read and write contract (150 tx/day) 
 
 ## Prerequisites
 
@@ -18,13 +18,13 @@ Auto send transaction by read and write contract (+ Point)
 
 ## Installation
 
-- Clone this repository: git clone https://github.com/your-username/your-repository.git
-- Install dependencies: npm install
+- **Clone this repository**: git clone https://github.com/inanitynoupcase/TaikoTrailblazersTxTool
+- **Install dependencies**: npm install
 - Update config/keys.json with your configuration details.
 
 ## Usage
 
-- Run the script: node script.js (or whatever your script file is named)
+- **Run the script**: node test3.js (or whatever your script file is named)
 - The script will connect to the Taiko network, make the specified number of deposits, and then withdraw the entire balance.
   Monitor the console output for transaction details and confirmation messages.
 
