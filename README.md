@@ -1,5 +1,5 @@
 # Taiko Trailblazers Send Transaction Tool
-
+## Last Update is JULY 2024, this project maybe outdated
 Auto send transaction by read and write contract (150 tx/day) 
 
 ## Prerequisites
